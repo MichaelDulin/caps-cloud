@@ -1,0 +1,19 @@
+{
+  "name": "caps-cloud",
+  "description": "****",
+  "version": "1.0.0",
+  "main": "driver.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1367.0",
+    "sqs-consumer": "^7.0.3",
+    "sqs-producer": "^3.1.1",
+    "uuid": "^9.0.0"
+  }
+}
